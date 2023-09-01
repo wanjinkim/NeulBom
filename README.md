@@ -50,7 +50,8 @@ Servlet/JSP를 활용한 웹 프로젝트 구현
 3. 관리자는 계정 관리자, 일반 관리자, 그 외 직원으로 구분하고 권한별로 기능 접근 권한을 다르게 한다.
 
 ### 데이터 구조
-![늘봄ERD(수정_0608_pm11 34)](https://github.com/wanjinkim/Neulbom/assets/45139754/d567b96e-d9c8-477e-b2e6-337b9fb577af)
+![늘봄ERD(수정_0608_pm11 34)](https://github.com/wanjinkim/NeulBom/assets/45139754/41332e30-940f-493e-88aa-6f82a7df1fc4)
+
 
 ### 담당업무
 - 메인화면 설계
@@ -67,17 +68,18 @@ Servlet/JSP를 활용한 웹 프로젝트 구현
 - **입주안내**
 - **알림게시판** : 공지사항, 식단표, 생활게시판
 - **커뮤니티** : 입주상담, 문의게시판, 자유게시판
-![1-1  메인화면](https://github.com/wanjinkim/Neulbom/assets/45139754/856222b1-c761-4ccc-86cd-4cc0ec0e53f5)
-![1-2  메인화면](https://github.com/wanjinkim/Neulbom/assets/45139754/fafdb6b6-4d34-4770-a48a-7b6e4f0b3001)
-![1-3  메인화면](https://github.com/wanjinkim/Neulbom/assets/45139754/21bcea04-197e-4681-aa5b-0a566e7a34fb)
+![1-3  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/022e7cd0-9885-4565-a476-80d535215afe)
+![1-2  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/68a77a32-b4b2-4683-b84a-906945621606)
+![1-1  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/a71069e2-3d11-4417-b913-081e4ed2c776)
+
 
 ### 2. 게시판 ⬇️
 - 비회원은 입주상담 글을 등록, 조회, 수정, 삭제할 수 있다. 
 - 비회원이 글을 작성하려면 이름과 전화번호를 입력받는다.
 - **입력받은 정보와 일치하는 글만 조회, 수정, 삭제** 할 수 있다.
 - 문의글에 관리자가 답변을 등록하고, 해당 글에는 **[답변완료]** 표시를 한다.
-![4-2  비회원 입주상담](https://github.com/wanjinkim/Neulbom/assets/45139754/a7c9c5cf-137c-42bf-8756-0e3ac73b66f6)
-![4-1  비회원 입주상담](https://github.com/wanjinkim/Neulbom/assets/45139754/e72bbae2-63ac-4812-8464-8ef512327c12)
+![4-2  비회원 입주상담](https://github.com/wanjinkim/NeulBom/assets/45139754/e45c4ad4-09f8-46b3-8cd7-9a925777c9e5)
+![4-1  비회원 입주상담](https://github.com/wanjinkim/NeulBom/assets/45139754/c8c803e1-ffcd-4f64-a073-77681fc77556)
 
 
 ### 3. 관리자 - 재무관리 ⬇️
