@@ -68,9 +68,9 @@ Servlet/JSP를 활용한 웹 프로젝트 구현
 - **입주안내**
 - **알림게시판** : 공지사항, 식단표, 생활게시판
 - **커뮤니티** : 입주상담, 문의게시판, 자유게시판
-![1-3  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/022e7cd0-9885-4565-a476-80d535215afe)
-![1-2  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/68a77a32-b4b2-4683-b84a-906945621606)
 ![1-1  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/a71069e2-3d11-4417-b913-081e4ed2c776)
+![1-2  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/68a77a32-b4b2-4683-b84a-906945621606)
+![1-3  메인화면](https://github.com/wanjinkim/NeulBom/assets/45139754/022e7cd0-9885-4565-a476-80d535215afe)
 
 
 ### 2. 게시판 ⬇️
